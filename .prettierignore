@@ -1,0 +1,11 @@
+node_modules
+package.json
+foundry.toml
+img
+artifacts
+cache
+coverage
+.env
+.*
+README.md
+coverage.json
